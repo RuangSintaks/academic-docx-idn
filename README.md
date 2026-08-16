@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PyPI](https://img.shields.io/pypi/v/docx-idn.svg)](https://pypi.org/project/docx-idn/)
 [![GitHub issues](https://img.shields.io/github/issues/kryvestudio/academic-docx-idn.svg)](https://github.com/kryvestudio/academic-docx-idn/issues)
 [![GitHub stars](https://img.shields.io/github/stars/kryvestudio/academic-docx-idn.svg)](https://github.com/kryvestudio/academic-docx-idn/stargazers)
 
